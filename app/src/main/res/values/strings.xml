@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">bitsandpizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Info</item>
+    </string-array>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="info">Krótka informacja na temat naszej aplikacji, powstałej na potrzeby zaliczenia</string>
+    <string name="LabelInfo">Informacje</string>
+    <string name="LabelMain">Lab4 Android</string>
+    <string name="LabelCategory">Wybierz kawe</string>
+    <string name="LabelCoffe">Wybany napoj</string>
+
+</resources>
