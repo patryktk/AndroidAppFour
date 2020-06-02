@@ -14,5 +14,7 @@
     <string name="LabelMain">Lab4 Android</string>
     <string name="LabelCategory">Wybierz kawe</string>
     <string name="LabelCoffe">Wybany napoj</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks:</string>
 
 </resources>
